@@ -24,7 +24,7 @@
 </p>
 
 <h3 align="left"> 🛠 Languages and Tools:</h3>
-<p align="center"> 
+<p align="left"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
@@ -38,6 +38,12 @@
 <a href="https://numpy.org/" title="NumPY"><img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPY" width="40px" height="40px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="40px" height="40px"></a>
 <a href="https://www.sublimetext.com/" title="Sublime Text"><img src="https://github.com/get-icon/geticon/raw/master/icons/sublime-text.svg" alt="Sublime Text" width="40px" height="40px"></a>
+<a href="https://stackoverflow.com/" title="Stackoverflow"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111628.png" alt="Stackoverflow Text" width="40px" height="40px"></a>
+<a href="https://www.anaconda.com/" title="Anaconda"><img src="https://img.icons8.com/fluency/2x/anaconda--v2.png 2x" alt="Anaconda Text" width="40px" height="40px"></a>
+<a href="https://www.microsoft.com/en-us/software-download/windows10" title="Windows"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504927.png" alt="Windows Text" width="40px" height="40px"></a>
+<a href="https://jupyter.org/" title="Jupyter"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/103px-Jupyter_logo.svg.png?20190118024747" alt="Jupyter Text" width="40px" height="40px"></a>
+<a href="https://www.spyder-ide.org/" title="Spyder"><img src="https://www.spyder-ide.org//static/images/spyder_logo.png?h=7f1693dc" alt="Spyder Text" width="40px" height="40px"></a>
+<a href="https://www.jetbrains.com/pycharm/" title="Pycharm"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/pycharm-icon.svg" alt="Pycharm Text" width="40px" height="40px"></a>
 
 
 </p>
