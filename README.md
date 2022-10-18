@@ -45,6 +45,9 @@
 <a href="https://www.spyder-ide.org/" title="Spyder"><img src="https://www.spyder-ide.org//static/images/spyder_logo.png?h=7f1693dc" alt="Spyder Text" width="40px" height="40px"></a>
 <a href="https://www.jetbrains.com/pycharm/" title="Pycharm"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/pycharm-icon.svg" alt="Pycharm Text" width="40px" height="40px"></a>
 <a href="https://matplotlib.org/" title="Matplotlib"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/120px-Created_with_Matplotlib-logo.svg.png?20150219130408" alt="Matplotlib Text" width="40px" height="40px"></a>
+<a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" title="BeautifulSoup"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/mitsu3204/20180824/20180824013430.jpg" alt="BeautifulSoup Text" width="40px" height="40px"></a>
+<a href="https://requests.readthedocs.io/en/latest/" title="Requests"><img src="https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png" alt="Requests Text" width="40px" height="40px"></a>
+
 
 </p>
 
