@@ -32,6 +32,7 @@
 <a href="https://jupyter.org/" title="Jupyter"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/103px-Jupyter_logo.svg.png?20190118024747" alt="Jupyter Text" width="40px" height="40px"></a>
 <a href="https://www.spyder-ide.org/" title="Spyder"><img src="https://www.spyder-ide.org//static/images/spyder_logo.png?h=7f1693dc" alt="Spyder Text" width="40px" height="40px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="40px" height="40px"></a>
+
 <a href="https://www.jetbrains.com/pycharm/" title="Pycharm"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/pycharm-icon.svg" alt="Pycharm Text" width="40px" height="40px"></a>
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 <a href="https://requests.readthedocs.io/en/latest/" title="Requests"><img src="https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png" alt="Requests Text" width="40px" height="40px"></a>
