@@ -36,7 +36,6 @@
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 <a href="https://requests.readthedocs.io/en/latest/" title="Requests"><img src="https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png" alt="Requests Text" width="40px" height="40px"></a>
 <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" title="BeautifulSoup"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/mitsu3204/20180824/20180824013430.jpg" alt="BeautifulSoup Text" width="40px" height="40px"></a>
-
 <a href="https://numpy.org/" title="NumPY"><img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPY" width="40px" height="40px"></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://matplotlib.org/" title="Matplotlib"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/120px-Created_with_Matplotlib-logo.svg.png?20150219130408" alt="Matplotlib Text" width="40px" height="40px"></a>
