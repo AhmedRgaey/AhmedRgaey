@@ -11,7 +11,7 @@
  - 🌱 I’m currently learning **deep learning**
  - 👯 I’m looking to collaborate on **machine learning projects**
  - 🤝 I’m looking for help with **helps you as a businessman to focus on your company’s profits and take over the functions of your business.**
- - 👨‍💻 All of my projects are available at [https://www.kaggle.com/ahmedrgaey](https://www.kaggle.com/ahmedrgaey)
+ - 👨‍💻 All of my projects are available **here**
  - 🤓 Always learning **new things**
  - 📫 How to reach me **ahmedrgae4@gmail.com**
  - 🐼 Doing [my best](my best)
