@@ -19,7 +19,7 @@
 
 <h3 align="left"> 📩 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ahmed-rgaey-7b9989184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-rgaey-7b9989184/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmed-rgaie/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-rgaey-7b9989184/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/ahmedrgaey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ahmedrgaey" height="30" width="40" /></a>
 </p>
 
@@ -28,7 +28,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.anaconda.com/" title="Anaconda"><img src="https://img.icons8.com/fluency/2x/anaconda--v2.png 2x" alt="Anaconda Text" width="40px" height="40px"></a>
+<a href="https://www.anaconda.com/" title="Anaconda"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Anaconda_Logo.png/120px-Anaconda_Logo.png" alt="Anaconda Text" width="40px" height="40px"></a>
 <a href="https://jupyter.org/" title="Jupyter"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/103px-Jupyter_logo.svg.png?20190118024747" alt="Jupyter Text" width="40px" height="40px"></a>
 <a href="https://www.spyder-ide.org/" title="Spyder"><img src="https://www.spyder-ide.org//static/images/spyder_logo.png?h=7f1693dc" alt="Spyder Text" width="40px" height="40px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="40px" height="40px"></a>
