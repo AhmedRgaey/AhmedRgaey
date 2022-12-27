@@ -69,7 +69,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/AhmedRgaey"><img alt="Ahmed Rgaie's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AhmedRgaey&custom_title=Ahmed%20Rgaie%27s%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/AhmedRgaey"><img alt="Ahmed Rgaie's Activity Graph" src="https://raw.githubusercontent.com/AhmedRgaey/github-readme-activity-graph/5e88704e7dde28e26f46f306d298f807705e2ae3/asset/react-dark.svg" /></a>
   <br/>
 
 <br/>
